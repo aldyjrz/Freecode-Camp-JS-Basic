@@ -1,0 +1,7 @@
+// Only change code below this line
+
+var array = ["Bulls", 23];
+
+var array2 = ["Bulls", 23];
+
+var myArray = [array, array2];
